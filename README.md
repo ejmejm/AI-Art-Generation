@@ -1,5 +1,5 @@
 # AI Art Generator
-######*by Edan Meyer*
+#####*by Edan Meyer*
 
 This project provides a wraper over [DeepDaze](https://github.com/lucidrains/deep-daze) for generating artwork. It focuses on simplifying the process even further and adding more automation. It adds 3 things in addition to the base ability to generate images from text:
 - Predefined preset for varying levels of quality
